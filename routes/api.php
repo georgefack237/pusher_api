@@ -28,3 +28,4 @@ Route::post('/getUserMessages', [MessageController::class, 'getUserMessages']);
 Route::post('/register', [UserController::class, 'createUser']);
 Route::post('/login', [UserController::class, 'login']);
 
+//ls-48ee0da49c64ca6bde3e77a044a96da8ae040587.cgvk455iuucw.us-east-1.rds.amazonaws.com
