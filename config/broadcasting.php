@@ -40,7 +40,7 @@ return [
                 'cluster' => env('PUSHER_APP_CLUSTER'),
                 'encrypted' => false,
                 'host' => '127.0.0.1',
-                'port' => 3030,
+                'port' => 6001,
                 'scheme' => 'http',
                 'curl_options' => [
                     CURLOPT_SSL_VERIFYHOST => 0,
